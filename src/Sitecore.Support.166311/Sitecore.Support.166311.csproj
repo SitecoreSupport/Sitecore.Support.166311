@@ -91,7 +91,7 @@
     <Reference Include="System.Configuration" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Forms\Mvc\Html\HtmlHelperExtensions\HtmlHelperExtensions.cs" />
+    <Compile Include="Forms\Mvc\Html\HtmlHelperExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

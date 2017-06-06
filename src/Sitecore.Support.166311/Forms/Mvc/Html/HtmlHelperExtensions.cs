@@ -3,7 +3,7 @@ using Sitecore.WFFM.Abstractions.Data.Enums;
 using System.Text;
 using System.Web.Mvc;
 
-namespace Sitecore.Support.Forms.Mvc.Html.HtmlHelperExtensions
+namespace Sitecore.Support.Forms.Mvc.Html
 {
   public static class HtmlHelperExtensions
   {
